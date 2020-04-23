@@ -11,9 +11,9 @@ export function Skills() {
 
 
     return (
-        <Container fluid className="vh-100 bg-light">
-            <h1 className="text-center pt-4">Things I'm good at</h1>
-            <Row className="justify-content-center">
+        <Container fluid className="min-vh-100 bg-light">
+            <h1 className="text-center pt-5">Things I'm good at</h1>
+            <Row className="justify-content-center mt-5">
                 <Col md={5}>
                     <FrontEnd></FrontEnd>
                 </Col>

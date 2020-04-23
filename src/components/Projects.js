@@ -8,6 +8,7 @@ import Container from 'react-bootstrap/Container'
 export function Projects() {
     return (
         <Container fluid className="vh-100 bg-dark">
+        
             <Carousel className="h-100 w-100 justify-content-center">
 
                 <Carousel.Item className="h-100">
