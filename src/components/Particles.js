@@ -4,11 +4,13 @@ import Particles from 'react-particles-js'
 export function ParticleCanvas() {
 
     const style = {
-        'touch-action': 'none'
+        'touch-action': 'none',
+        'height': '100%',
+        'width': '100%',
     }
 
     return (
-            <Particles style={style} className="h-100 w-100"
+            <Particles style={style}
                 params={{ 
                     particles: { 
                         number: { 

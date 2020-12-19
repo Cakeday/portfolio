@@ -1,12 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+import GlobalStyles from './GlobalStyles'
+import GlobalReset from './GlobalReset'
+
 ReactDOM.render(
   <React.StrictMode>
+    <GlobalReset />
+    <GlobalStyles />
     <App />
   </React.StrictMode>,
   document.getElementById('root')
