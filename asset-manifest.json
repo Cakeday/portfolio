@@ -1,26 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio.github.io/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/portfolio.github.io/static/js/main.a5ab33d5.chunk.js",
-    "main.js.map": "/portfolio.github.io/static/js/main.a5ab33d5.chunk.js.map",
+    "main.js": "/portfolio.github.io/static/js/main.e6515be0.chunk.js",
+    "main.js.map": "/portfolio.github.io/static/js/main.e6515be0.chunk.js.map",
     "runtime-main.js": "/portfolio.github.io/static/js/runtime-main.e08ad606.js",
     "runtime-main.js.map": "/portfolio.github.io/static/js/runtime-main.e08ad606.js.map",
-    "static/css/2.69121389.chunk.css": "/portfolio.github.io/static/css/2.69121389.chunk.css",
-    "static/js/2.9aed6dc2.chunk.js": "/portfolio.github.io/static/js/2.9aed6dc2.chunk.js",
-    "static/js/2.9aed6dc2.chunk.js.map": "/portfolio.github.io/static/js/2.9aed6dc2.chunk.js.map",
+    "static/js/2.dcd6666a.chunk.js": "/portfolio.github.io/static/js/2.dcd6666a.chunk.js",
+    "static/js/2.dcd6666a.chunk.js.map": "/portfolio.github.io/static/js/2.dcd6666a.chunk.js.map",
     "index.html": "/portfolio.github.io/index.html",
-    "precache-manifest.9f0f16b43ac6730335f3b4a3261b7da8.js": "/portfolio.github.io/precache-manifest.9f0f16b43ac6730335f3b4a3261b7da8.js",
+    "precache-manifest.2f06ab2db8ce57fc584986124cc52b2e.js": "/portfolio.github.io/precache-manifest.2f06ab2db8ce57fc584986124cc52b2e.js",
     "service-worker.js": "/portfolio.github.io/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/portfolio.github.io/static/css/2.69121389.chunk.css.map",
-    "static/css/main.27fd15f6.chunk.css.map": "/portfolio.github.io/static/css/main.27fd15f6.chunk.css.map",
-    "static/js/2.9aed6dc2.chunk.js.LICENSE.txt": "/portfolio.github.io/static/js/2.9aed6dc2.chunk.js.LICENSE.txt",
-    "static/media/email.png": "/portfolio.github.io/static/media/email.5ae10046.png"
+    "static/js/2.dcd6666a.chunk.js.LICENSE.txt": "/portfolio.github.io/static/js/2.dcd6666a.chunk.js.LICENSE.txt",
+    "static/media/PortlandMe.JPG": "/portfolio.github.io/static/media/PortlandMe.72363dbb.JPG",
+    "static/media/WhatDoYouMern1.png": "/portfolio.github.io/static/media/WhatDoYouMern1.25827039.png",
+    "static/media/justonepenny1.png": "/portfolio.github.io/static/media/justonepenny1.2d1da261.png",
+    "static/media/unibui1.png": "/portfolio.github.io/static/media/unibui1.af98075b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e08ad606.js",
-    "static/css/2.69121389.chunk.css",
-    "static/js/2.9aed6dc2.chunk.js",
-    "static/css/main.27fd15f6.chunk.css",
-    "static/js/main.a5ab33d5.chunk.js"
+    "static/js/2.dcd6666a.chunk.js",
+    "static/js/main.e6515be0.chunk.js"
   ]
 }
