@@ -83,7 +83,7 @@ const Arrow = styled.span`
     transition: transform 1s, border-color .4s;
 `
 
-const Hero = () => {
+const Hero = ({ triggerScroll }) => {
 
     return (
         <Container>
@@ -96,7 +96,7 @@ const Hero = () => {
                     <br />
                     <SubHeading>I'm a Full Stack Software Engineer.</SubHeading>
                 </Heading>
-                <Button>
+                <Button onClick={triggerScroll}>
                     Check out my work
                     <Arrow />
                 </Button>

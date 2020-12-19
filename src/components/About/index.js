@@ -1,13 +1,14 @@
-import React from 'react';
+import React, { forwardRef } from 'react';
 import { AboutSection, Content, P, FlexContainer } from './AboutSection'
 import Img from '../common/CircularImg'
 import Line from "../common/GradientLine";
 
 import Me from '../../assets/PortlandMe.JPG'
 
-const index = () => {
+const Index = forwardRef((props, ref) => {
+
     return (
-        <AboutSection>
+        <AboutSection ref={ref}>
             <FlexContainer>
                 <Content>
                     <h1>About me</h1>
@@ -28,6 +29,6 @@ const index = () => {
             </FlexContainer>
         </AboutSection>
     );
-}
+})
 
-export default index;
+export default Index;
