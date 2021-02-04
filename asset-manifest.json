@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.9b002de8.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.9b002de8.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.2299ec0b.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.2299ec0b.js.map",
-    "static/js/2.ee34472b.chunk.js": "/portfolio/static/js/2.ee34472b.chunk.js",
-    "static/js/2.ee34472b.chunk.js.map": "/portfolio/static/js/2.ee34472b.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.e4a773d53ff6d16d87812a4afb53b7e7.js": "/portfolio/precache-manifest.e4a773d53ff6d16d87812a4afb53b7e7.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/js/2.ee34472b.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ee34472b.chunk.js.LICENSE.txt",
-    "static/media/PortlandMe.JPG": "/portfolio/static/media/PortlandMe.72363dbb.JPG",
-    "static/media/WhatDoYouMern1.png": "/portfolio/static/media/WhatDoYouMern1.25827039.png",
-    "static/media/justonepenny1.png": "/portfolio/static/media/justonepenny1.2d1da261.png",
-    "static/media/unibui1.png": "/portfolio/static/media/unibui1.af98075b.png"
+    "main.js": "/static/js/main.e5ca56c9.chunk.js",
+    "main.js.map": "/static/js/main.e5ca56c9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0e1ac7c5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0e1ac7c5.js.map",
+    "static/js/2.4243641c.chunk.js": "/static/js/2.4243641c.chunk.js",
+    "static/js/2.4243641c.chunk.js.map": "/static/js/2.4243641c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.08b6d76b95dc8d8bf23929ac034187d4.js": "/precache-manifest.08b6d76b95dc8d8bf23929ac034187d4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.4243641c.chunk.js.LICENSE.txt": "/static/js/2.4243641c.chunk.js.LICENSE.txt",
+    "static/media/PortlandMe.JPG": "/static/media/PortlandMe.72363dbb.JPG",
+    "static/media/WhatDoYouMern1.png": "/static/media/WhatDoYouMern1.25827039.png",
+    "static/media/justonepenny1.png": "/static/media/justonepenny1.2d1da261.png",
+    "static/media/unibui1.png": "/static/media/unibui1.af98075b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2299ec0b.js",
-    "static/js/2.ee34472b.chunk.js",
-    "static/js/main.9b002de8.chunk.js"
+    "static/js/runtime-main.0e1ac7c5.js",
+    "static/js/2.4243641c.chunk.js",
+    "static/js/main.e5ca56c9.chunk.js"
   ]
 }
