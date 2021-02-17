@@ -3,9 +3,8 @@ import ContentWrapper from './components/ContentWrapper';
 import Hero from './components/Hero';
 import About from './components/About'
 import WorkAndProjects from './components/WorkAndProjects'
-// import { Projects } from './components/Projects';
-// import { Skills } from './components/SkillsLayout';
-// import { Contact } from './components/Contact';
+
+import ReactGA from 'react-ga';
 
 const App = () => {
 
@@ -14,6 +13,10 @@ const App = () => {
   const triggerScroll = () => {
     scrollRef.current.scrollIntoView({behavior: "smooth"})
   }
+
+  const trackingId = "G-9XLHX3WTGK"; // Replace with your Google Analytics tracking ID
+  ReactGA.initialize(trackingId);
+  ReactGA.pageview(window.location.pathname);
 
 
   return (
