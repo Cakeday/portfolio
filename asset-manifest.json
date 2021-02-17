@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.e5ca56c9.chunk.js",
-    "main.js.map": "/static/js/main.e5ca56c9.chunk.js.map",
+    "main.js": "/static/js/main.1a1f4f69.chunk.js",
+    "main.js.map": "/static/js/main.1a1f4f69.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0e1ac7c5.js",
     "runtime-main.js.map": "/static/js/runtime-main.0e1ac7c5.js.map",
-    "static/js/2.4243641c.chunk.js": "/static/js/2.4243641c.chunk.js",
-    "static/js/2.4243641c.chunk.js.map": "/static/js/2.4243641c.chunk.js.map",
+    "static/js/2.ad87e6ca.chunk.js": "/static/js/2.ad87e6ca.chunk.js",
+    "static/js/2.ad87e6ca.chunk.js.map": "/static/js/2.ad87e6ca.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e98b9fdc8835e3688e18596608afbbe6.js": "/precache-manifest.e98b9fdc8835e3688e18596608afbbe6.js",
+    "precache-manifest.c21e670566edd865053164be884064b2.js": "/precache-manifest.c21e670566edd865053164be884064b2.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.4243641c.chunk.js.LICENSE.txt": "/static/js/2.4243641c.chunk.js.LICENSE.txt",
+    "static/js/2.ad87e6ca.chunk.js.LICENSE.txt": "/static/js/2.ad87e6ca.chunk.js.LICENSE.txt",
     "static/media/PortlandMe.JPG": "/static/media/PortlandMe.72363dbb.JPG",
     "static/media/WhatDoYouMern1.png": "/static/media/WhatDoYouMern1.25827039.png",
     "static/media/justonepenny1.png": "/static/media/justonepenny1.2d1da261.png",
@@ -17,7 +17,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0e1ac7c5.js",
-    "static/js/2.4243641c.chunk.js",
-    "static/js/main.e5ca56c9.chunk.js"
+    "static/js/2.ad87e6ca.chunk.js",
+    "static/js/main.1a1f4f69.chunk.js"
   ]
 }
